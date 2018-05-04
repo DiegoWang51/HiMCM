@@ -1,0 +1,23 @@
+Last login: Sun Nov  5 19:40:27 on ttys002
+Diego-Wang:~ wlt$ cd Documents/IB/CAS/Mathematical\ Modeling/HiMCM/
+Diego-Wang:HiMCM wlt$ python3.5 genetic.py 
+Genetic Algorithm with parameters:
+1.0 % elites
+0.5 % changes
+3000 generations
+500 individuals * 500 genes population
+    
+48376.78097770534
+20223.744677137012
+
+53986.00026995884
+16132.293991705696
+
+52739.72084808413
+17755.03186824537
+
+27180.272424378174
+20755.110900379277
+
+Segmentation fault: 11
+Diego-Wang:HiMCM wlt$ 
